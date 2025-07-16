@@ -5,7 +5,6 @@ Office.onReady(() => {
     console.log("🔥 taskpane.js geladen – aktuelle Version");
   }
 });
-
 const apiUrl = "https://vlp-upload.onrender.com/process";
 const storageKey = "pmfusion-column-mapping";
 
